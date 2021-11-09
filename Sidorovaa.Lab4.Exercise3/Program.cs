@@ -7,7 +7,7 @@ namespace Sidorova.Lab4.Exercise3
 
         static double Method1(double k)
         {
-            double s = -2 * k + 1 / 10;
+            double s = (-2 * k + 1) / 10;
             return s;
         }
 
